@@ -1,0 +1,815 @@
+{
+  "Ads": [
+    {
+      "select_ads": "ADMOB",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+      "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
+      "admob_openid": "ca-app-pub-3940256099942544/1033173712",
+      "interval_intertitial": "10",
+      "startappid": "",
+      "fan_inter": "",
+      "fan_banner_native": "",
+      "mopub_banner": "",
+      "mopub_inter": "",
+      "unityID": "",
+      "unity_inter": "",
+      "unity_banner": " ",
+      "packagename": "com.mauldev.ultimateanimeninjakonoha"
+    }
+  ],
+  "More":
+  [
+
+  ],
+
+  "Categories": [
+
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Naruto",
+      "title":"Naruto 1",
+      "image":"file:///android_asset/image/1.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Naruto",
+      "title":"Naruto 2",
+      "image":"file:///android_asset/image/2.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "Naruto",
+      "title":"Naruto 3",
+      "image":"file:///android_asset/image/3.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "Naruto",
+      "title":"Naruto 4",
+      "image":"file:///android_asset/image/4.jpg"
+    },
+    {
+      "id":5,
+      "name_category": "Naruto",
+      "title":"Naruto 5",
+      "image":"file:///android_asset/image/5.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "Naruto",
+      "title":"Naruto 6",
+      "image":"file:///android_asset/image/6.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "Naruto",
+      "title":"Naruto 7",
+      "image":"file:///android_asset/image/7.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "Naruto",
+      "title":"Naruto 8",
+      "image":"file:///android_asset/image/8.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "Naruto",
+      "title":"Naruto 9",
+      "image":"file:///android_asset/image/9.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "Naruto",
+      "title":"Naruto 10",
+      "image":"file:///android_asset/image/10.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "Naruto",
+      "title":"Naruto 11",
+      "image":"file:///android_asset/image/11.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "Naruto",
+      "title":"Naruto 12",
+      "image":"file:///android_asset/image/12.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "Naruto",
+      "title":"Naruto 13",
+      "image":"file:///android_asset/image/13.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "Naruto",
+      "title":"Naruto 14",
+      "image":"file:///android_asset/image/14.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "Naruto",
+      "title":"Naruto 15",
+      "image":"file:///android_asset/image/15.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "Naruto",
+      "title":"Naruto 16",
+      "image":"file:///android_asset/image/16.jpg"
+    },
+    {
+      "id":17,
+      "name_category": "Naruto",
+      "title":"Naruto 17",
+      "image":"file:///android_asset/image/17.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "Naruto",
+      "title":"Naruto 18",
+      "image":"file:///android_asset/image/18.jpg"
+    },
+    {
+      "id":19,
+      "name_category": "Naruto",
+      "title":"Naruto 19",
+      "image":"file:///android_asset/image/19.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "Naruto",
+      "title":"Naruto 20",
+      "image":"file:///android_asset/image/20.jpg"
+    },
+    {
+      "id":21,
+      "name_category": "Naruto",
+      "title":"Naruto 21",
+      "image":"file:///android_asset/image/21.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "Naruto",
+      "title":"Naruto 22",
+      "image":"file:///android_asset/image/22.jpg"
+    },
+    {
+      "id":23,
+      "name_category": "Naruto",
+      "title":"Naruto 23",
+      "image":"file:///android_asset/image/23.jpg"
+    },
+    {
+      "id":24,
+      "name_category": "Naruto",
+      "title":"Naruto 24",
+      "image":"file:///android_asset/image/24.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "Naruto",
+      "title":"Naruto 25",
+      "image":"file:///android_asset/image/25.jpg"
+    },
+    {
+      "id":26,
+      "name_category": "Naruto",
+      "title":"Naruto 26",
+      "image":"file:///android_asset/image/26.jpg"
+    },
+    {
+      "id":27,
+      "name_category": "Naruto",
+      "title":"Naruto 27",
+      "image":"file:///android_asset/image/27.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "Naruto",
+      "title":"Naruto 28",
+      "image":"file:///android_asset/image/28.jpg"
+    },
+    {
+      "id":29,
+      "name_category": "Naruto",
+      "title":"Naruto 29",
+      "image":"file:///android_asset/image/29.jpg"
+    },
+    {
+      "id":30,
+      "name_category": "Naruto",
+      "title":"Naruto 30",
+      "image":"file:///android_asset/image/30.jpg"
+    },
+    {
+      "id":31,
+      "name_category": "Naruto",
+      "title":"Naruto 31",
+      "image":"file:///android_asset/image/31.jpg"
+    },
+    {
+      "id":32,
+      "name_category": "Naruto",
+      "title":"Naruto 32",
+      "image":"file:///android_asset/image/32.jpg"
+    },
+    {
+      "id":33,
+      "name_category": "Naruto",
+      "title":"Naruto 33",
+      "image":"file:///android_asset/image/33.jpg"
+    },
+    {
+      "id":34,
+      "name_category": "Naruto",
+      "title":"Naruto 34",
+      "image":"file:///android_asset/image/34.jpg"
+    },
+    {
+      "id":35,
+      "name_category": "Naruto",
+      "title":"Naruto 35",
+      "image":"file:///android_asset/image/35.jpg"
+    },
+    {
+      "id":36,
+      "name_category": "Naruto",
+      "title":"Naruto 36",
+      "image":"file:///android_asset/image/36.jpg"
+    },
+    {
+      "id":37,
+      "name_category": "Naruto",
+      "title":"Naruto 37",
+      "image":"file:///android_asset/image/37.jpg"
+    },
+    {
+      "id":38,
+      "name_category": "Naruto",
+      "title":"Naruto 38",
+      "image":"file:///android_asset/image/38.jpg"
+    },
+    {
+      "id":39,
+      "name_category": "Naruto",
+      "title":"Naruto 39",
+      "image":"file:///android_asset/image/39.jpg"
+    },
+    {
+      "id":40,
+      "name_category": "Naruto",
+      "title":"Naruto 40",
+      "image":"file:///android_asset/image/40.jpg"
+    },
+    {
+      "id":41,
+      "name_category": "Naruto",
+      "title":"Naruto 41",
+      "image":"file:///android_asset/image/41.jpg"
+    },
+    {
+      "id":42,
+      "name_category": "Naruto",
+      "title":"Naruto 42",
+      "image":"file:///android_asset/image/42.jpg"
+    },
+    {
+      "id":43,
+      "name_category": "Naruto",
+      "title":"Naruto 43",
+      "image":"file:///android_asset/image/43.jpg"
+    },
+    {
+      "id":44,
+      "name_category": "Naruto",
+      "title":"Naruto 44",
+      "image":"file:///android_asset/image/44.jpg"
+    },
+    {
+      "id":45,
+      "name_category": "Naruto",
+      "title":"Naruto 45",
+      "image":"file:///android_asset/image/45.jpg"
+    },
+    {
+      "id":46,
+      "name_category": "Naruto",
+      "title":"Naruto 46",
+      "image":"file:///android_asset/image/46.jpg"
+    },
+    {
+      "id":47,
+      "name_category": "Naruto",
+      "title":"Naruto 47",
+      "image":"file:///android_asset/image/47.jpg"
+    },
+    {
+      "id":48,
+      "name_category": "Naruto",
+      "title":"Naruto 48",
+      "image":"file:///android_asset/image/48.jpg"
+    },
+    {
+      "id":49,
+      "name_category": "Naruto",
+      "title":"Naruto 49",
+      "image":"file:///android_asset/image/49.jpg"
+    },
+    {
+      "id":50,
+      "name_category": "Naruto",
+      "title":"Naruto 50",
+      "image":"file:///android_asset/image/50.jpg"
+    },
+    {
+      "id":51,
+      "name_category": "Naruto",
+      "title":"Naruto 51",
+      "image":"file:///android_asset/image/51.jpg"
+    },
+    {
+      "id":52,
+      "name_category": "Naruto",
+      "title":"Naruto 52",
+      "image":"file:///android_asset/image/52.jpg"
+    },
+    {
+      "id":53,
+      "name_category": "Naruto",
+      "title":"Naruto 53",
+      "image":"file:///android_asset/image/53.jpg"
+    },
+    {
+      "id":54,
+      "name_category": "Naruto",
+      "title":"Naruto 54",
+      "image":"file:///android_asset/image/54.jpg"
+    },
+    {
+      "id":55,
+      "name_category": "Naruto",
+      "title":"Naruto 55",
+      "image":"file:///android_asset/image/55.jpg"
+    },
+    {
+      "id":56,
+      "name_category": "Naruto",
+      "title":"Naruto 56",
+      "image":"file:///android_asset/image/56.jpg"
+    },
+    {
+      "id":57,
+      "name_category": "Naruto",
+      "title":"Naruto 57",
+      "image":"file:///android_asset/image/57.jpg"
+    },
+    {
+      "id":58,
+      "name_category": "Naruto",
+      "title":"Naruto 58",
+      "image":"file:///android_asset/image/58.jpg"
+    },
+    {
+      "id":59,
+      "name_category": "Naruto",
+      "title":"Naruto 59",
+      "image":"file:///android_asset/image/59.jpg"
+    },
+    {
+      "id":60,
+      "name_category": "Naruto",
+      "title":"Naruto 60",
+      "image":"file:///android_asset/image/60.jpg"
+    },
+    {
+      "id":61,
+      "name_category": "Naruto",
+      "title":"Naruto 61",
+      "image":"file:///android_asset/image/61.jpg"
+    },
+    {
+      "id":62,
+      "name_category": "Naruto",
+      "title":"Naruto 62",
+      "image":"file:///android_asset/image/62.jpg"
+    },
+    {
+      "id":63,
+      "name_category": "Naruto",
+      "title":"Naruto 63",
+      "image":"file:///android_asset/image/63.jpg"
+    },
+    {
+      "id":64,
+      "name_category": "Naruto",
+      "title":"Naruto 64",
+      "image":"file:///android_asset/image/64.jpg"
+    },
+    {
+      "id":65,
+      "name_category": "Naruto",
+      "title":"Naruto 65",
+      "image":"file:///android_asset/image/65.jpg"
+    },
+    {
+      "id":66,
+      "name_category": "Naruto",
+      "title":"Naruto 66",
+      "image":"file:///android_asset/image/66.jpg"
+    },
+    {
+      "id":67,
+      "name_category": "Naruto",
+      "title":"Naruto 67",
+      "image":"file:///android_asset/image/67.jpg"
+    },
+    {
+      "id":68,
+      "name_category": "Naruto",
+      "title":"Naruto 68",
+      "image":"file:///android_asset/image/68.jpg"
+    },
+    {
+      "id":69,
+      "name_category": "Naruto",
+      "title":"Naruto 69",
+      "image":"file:///android_asset/image/69.jpg"
+    },
+    {
+      "id":70,
+      "name_category": "Naruto",
+      "title":"Naruto 70",
+      "image":"file:///android_asset/image/70.jpg"
+    },
+    {
+      "id":71,
+      "name_category": "Naruto",
+      "title":"Naruto 71",
+      "image":"file:///android_asset/image/71.jpg"
+    },
+    {
+      "id":72,
+      "name_category": "Naruto",
+      "title":"Naruto 72",
+      "image":"file:///android_asset/image/72.jpg"
+    },
+    {
+      "id":73,
+      "name_category": "Naruto",
+      "title":"Naruto 73",
+      "image":"file:///android_asset/image/73.jpg"
+    },
+    {
+      "id":74,
+      "name_category": "Naruto",
+      "title":"Naruto 74",
+      "image":"file:///android_asset/image/74.jpg"
+    },
+    {
+      "id":75,
+      "name_category": "Naruto",
+      "title":"Naruto 75",
+      "image":"file:///android_asset/image/75.jpg"
+    },
+    {
+      "id":76,
+      "name_category": "Naruto",
+      "title":"Naruto 76",
+      "image":"file:///android_asset/image/76.jpg"
+    },
+    {
+      "id":77,
+      "name_category": "Naruto",
+      "title":"Naruto 77",
+      "image":"file:///android_asset/image/77.jpg"
+    },
+    {
+      "id":78,
+      "name_category": "Naruto",
+      "title":"Naruto 78",
+      "image":"file:///android_asset/image/78.jpg"
+    },
+    {
+      "id":79,
+      "name_category": "Naruto",
+      "title":"Naruto 79",
+      "image":"file:///android_asset/image/79.jpg"
+    },
+    {
+      "id":80,
+      "name_category": "Naruto",
+      "title":"Naruto 80",
+      "image":"file:///android_asset/image/80.jpg"
+    },
+    {
+      "id":81,
+      "name_category": "Naruto",
+      "title":"Naruto 81",
+      "image":"file:///android_asset/image/81.jpg"
+    },
+    {
+      "id":82,
+      "name_category": "Naruto",
+      "title":"Naruto 82",
+      "image":"file:///android_asset/image/82.jpg"
+    },
+    {
+      "id":83,
+      "name_category": "Naruto",
+      "title":"Naruto 83",
+      "image":"file:///android_asset/image/83.jpg"
+    },
+    {
+      "id":84,
+      "name_category": "Naruto",
+      "title":"Naruto 84",
+      "image":"file:///android_asset/image/84.jpg"
+    },
+    {
+      "id":85,
+      "name_category": "Naruto",
+      "title":"Naruto 85",
+      "image":"file:///android_asset/image/85.jpg"
+    },
+    {
+      "id":86,
+      "name_category": "Naruto",
+      "title":"Naruto 86",
+      "image":"file:///android_asset/image/86.jpg"
+    },
+    {
+      "id":87,
+      "name_category": "Naruto",
+      "title":"Naruto 87",
+      "image":"file:///android_asset/image/87.jpg"
+    },
+    {
+      "id":88,
+      "name_category": "Naruto",
+      "title":"Naruto 88",
+      "image":"file:///android_asset/image/88.jpg"
+    },
+    {
+      "id":89,
+      "name_category": "Naruto",
+      "title":"Naruto 89",
+      "image":"file:///android_asset/image/89.jpg"
+    },
+    {
+      "id":90,
+      "name_category": "Naruto",
+      "title":"Naruto 90",
+      "image":"file:///android_asset/image/90.jpg"
+    },
+    {
+      "id":91,
+      "name_category": "Naruto",
+      "title":"Naruto 91",
+      "image":"file:///android_asset/image/91.jpg"
+    },
+    {
+      "id":92,
+      "name_category": "Naruto",
+      "title":"Naruto 92",
+      "image":"file:///android_asset/image/92.jpg"
+    },
+    {
+      "id":93,
+      "name_category": "Naruto",
+      "title":"Naruto 93",
+      "image":"file:///android_asset/image/93.jpg"
+    },
+    {
+      "id":94,
+      "name_category": "Naruto",
+      "title":"Naruto 94",
+      "image":"file:///android_asset/image/94.jpg"
+    },
+    {
+      "id":95,
+      "name_category": "Naruto",
+      "title":"Naruto 95",
+      "image":"file:///android_asset/image/95.jpg"
+    },
+    {
+      "id":96,
+      "name_category": "Naruto",
+      "title":"Naruto 96",
+      "image":"file:///android_asset/image/96.jpg"
+    },
+    {
+      "id":97,
+      "name_category": "Naruto",
+      "title":"Naruto 97",
+      "image":"file:///android_asset/image/97.jpg"
+    },
+    {
+      "id":98,
+      "name_category": "Naruto",
+      "title":"Naruto 98",
+      "image":"file:///android_asset/image/98.jpg"
+    },
+    {
+      "id":99,
+      "name_category": "Naruto",
+      "title":"Naruto 99",
+      "image":"file:///android_asset/image/99.jpg"
+    },
+    {
+      "id":100,
+      "name_category": "Naruto",
+      "title":"Naruto 100",
+      "image":"file:///android_asset/image/100.jpg"
+    },
+    {
+      "id":101,
+      "name_category": "Naruto",
+      "title":"Naruto 101",
+      "image":"file:///android_asset/image/101.jpg"
+    },
+    {
+      "id":102,
+      "name_category": "Naruto",
+      "title":"Naruto 102",
+      "image":"file:///android_asset/image/102.jpg"
+    },
+    {
+      "id":103,
+      "name_category": "Naruto",
+      "title":"Naruto 103",
+      "image":"file:///android_asset/image/103.jpg"
+    },
+    {
+      "id":104,
+      "name_category": "Naruto",
+      "title":"Naruto 104",
+      "image":"file:///android_asset/image/104.jpg"
+    },
+    {
+      "id":105,
+      "name_category": "Naruto",
+      "title":"Naruto 105",
+      "image":"file:///android_asset/image/105.jpg"
+    },
+    {
+      "id":106,
+      "name_category": "Naruto",
+      "title":"Naruto 106",
+      "image":"file:///android_asset/image/106.jpg"
+    },
+    {
+      "id":107,
+      "name_category": "Naruto",
+      "title":"Naruto 107",
+      "image":"file:///android_asset/image/107.jpg"
+    },
+    {
+      "id":108,
+      "name_category": "Naruto",
+      "title":"Naruto 108",
+      "image":"file:///android_asset/image/108.jpg"
+    },
+    {
+      "id":109,
+      "name_category": "Naruto",
+      "title":"Naruto 109",
+      "image":"file:///android_asset/image/109.jpg"
+    },
+    {
+      "id":110,
+      "name_category": "Naruto",
+      "title":"Naruto 110",
+      "image":"file:///android_asset/image/110.jpg"
+    },
+    {
+      "id":111,
+      "name_category": "Naruto",
+      "title":"Naruto 111",
+      "image":"file:///android_asset/image/111.jpg"
+    },
+    {
+      "id":112,
+      "name_category": "Naruto",
+      "title":"Naruto 112",
+      "image":"file:///android_asset/image/112.jpg"
+    },
+    {
+      "id":113,
+      "name_category": "Naruto",
+      "title":"Naruto 113",
+      "image":"file:///android_asset/image/113.jpg"
+    },
+    {
+      "id":114,
+      "name_category": "Naruto",
+      "title":"Naruto 114",
+      "image":"file:///android_asset/image/114.jpg"
+    },
+    {
+      "id":115,
+      "name_category": "Naruto",
+      "title":"Naruto 115",
+      "image":"file:///android_asset/image/115.jpg"
+    },
+    {
+      "id":116,
+      "name_category": "Naruto",
+      "title":"Naruto 116",
+      "image":"file:///android_asset/image/116.jpg"
+    },
+    {
+      "id":117,
+      "name_category": "Naruto",
+      "title":"Naruto 117",
+      "image":"file:///android_asset/image/117.jpg"
+    },
+    {
+      "id":118,
+      "name_category": "Naruto",
+      "title":"Naruto 118",
+      "image":"file:///android_asset/image/118.jpg"
+    },
+    {
+      "id":119,
+      "name_category": "Naruto",
+      "title":"Naruto 119",
+      "image":"file:///android_asset/image/119.jpg"
+    },
+    {
+      "id":120,
+      "name_category": "Naruto",
+      "title":"Naruto 120",
+      "image":"file:///android_asset/image/120.jpg"
+    },
+    {
+      "id":121,
+      "name_category": "Naruto",
+      "title":"Naruto 121",
+      "image":"file:///android_asset/image/121.jpg"
+    },
+    {
+      "id":122,
+      "name_category": "Naruto",
+      "title":"Naruto 122",
+      "image":"file:///android_asset/image/122.jpg"
+    },
+    {
+      "id":123,
+      "name_category": "Naruto",
+      "title":"Naruto 123",
+      "image":"file:///android_asset/image/123.jpg"
+    },
+    {
+      "id":124,
+      "name_category": "Naruto",
+      "title":"Naruto 124",
+      "image":"file:///android_asset/image/124.jpg"
+    },
+    {
+      "id":125,
+      "name_category": "Naruto",
+      "title":"Naruto 125",
+      "image":"file:///android_asset/image/125.jpg"
+    },
+    {
+      "id":126,
+      "name_category": "Naruto",
+      "title":"Naruto 126",
+      "image":"file:///android_asset/image/126.jpg"
+    },
+    {
+      "id":127,
+      "name_category": "Naruto",
+      "title":"Naruto 127",
+      "image":"file:///android_asset/image/127.jpg"
+    },
+    {
+      "id":128,
+      "name_category": "Naruto",
+      "title":"Naruto 128",
+      "image":"file:///android_asset/image/128.jpg"
+    },
+    {
+      "id":129,
+      "name_category": "Naruto",
+      "title":"Naruto 129",
+      "image":"file:///android_asset/image/129.jpg"
+    },
+    {
+      "id":130,
+      "name_category": "Naruto",
+      "title":"Naruto 130",
+      "image":"file:///android_asset/image/130.jpg"
+    }
+
+  ]
+}
